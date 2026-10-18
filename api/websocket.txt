@@ -1,0 +1,2 @@
+No WebSocket UPGRADE hdr: None
+ Can "Upgrade" only to "WebSocket".
